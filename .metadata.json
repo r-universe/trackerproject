@@ -1,0 +1,10 @@
+[
+  {
+    "package": "trackeR",
+    "oncran": true
+  },
+  {
+    "package": "trackeRapp",
+    "oncran": true
+  }
+]
