@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "trackeR"]
+	path = trackeR
+	url = https://github.com/trackerproject/tracker
+	shallow = true
+	registered = true
+[submodule "trackeRapp"]
+	path = trackeRapp
+	url = https://github.com/trackerproject/trackerapp
+	shallow = true
+	registered = true
