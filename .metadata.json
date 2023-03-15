@@ -1,10 +1,10 @@
 [
   {
-    "package": "trackeRapp",
+    "package": "trackeR",
     "oncran": true
   },
   {
-    "package": "trackeR",
+    "package": "trackeRapp",
     "oncran": true
   }
 ]
